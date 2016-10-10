@@ -1,5 +1,3 @@
-Feel free to take them : )
-
 1. bilibili danmu analysis
 data scraper https://github.com/XadillaX/bilibili-subtitles
 
